@@ -1,23 +1,27 @@
-# (Replace_with_your_title) Cookbook
+# Building Python Packages Cookbook
 
 [![nightly-build](https://github.com/ProjectPythiaCookbooks/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/cookbook-template/actions/workflows/nightly-build.yaml)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., *working with radar data in Python*)
+This Project Pythia Cookbook covers how to create a Python package.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+As a Python coder, you might find yourself in the position of wanting to share your code with others. By creating a package, you can easily and reproducibly share your code with the community.
 
 ## Structure
-(State one or more sections that will comprise the notebook. E.g., *This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."* Then, describe each section below.)
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+This cookbook will cover several topics about making python packages:
+
+### Directory Structure
+
 (Add content for this section, e.g., "The foundational content includes ... ")
 
 ### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+
 (Add content for this section, e.g., "Example workflows include ... ")
 
 ## Running the Notebooks
+
 You can either run the notebook using [Binder](https://mybinder.org/) or on your local machine.
 
 ### Running on Binder
@@ -38,6 +42,7 @@ a live Jupyter notebook are described in [Getting Started with
 Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html).
 
 ### Running on Your Own Machine
+
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
 (Replace "cookbook-example" with the title of your cookbooks)   
